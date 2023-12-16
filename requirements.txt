@@ -1,0 +1,18 @@
+# general
+numpy
+pandas
+tqdm
+
+# visialization
+matplotlib
+seaborn
+plotly
+opencv-python
+Pillow
+
+# deep learning
+sklearn
+torch
+torchvision
+torchsummary
+pytorch-gradcam
